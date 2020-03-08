@@ -1,0 +1,4 @@
+#Mon Feb 24 01:48:29 BRT 2020
+base.0=/home/mlopes/AndroidStudioProjects/routebus/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
