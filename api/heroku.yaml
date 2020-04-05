@@ -1,0 +1,6 @@
+database:
+  host: ec2-50-17-178-87.compute-1.amazonaws.com 
+  port: 5432
+  username: xgdegvduqhdgta
+  password: 00bfe08da58d472e03fe9523fe492f85f78038084ac08b6184e589a6804bf3a6
+  databaseName: d7kmqlc0hq7v17
